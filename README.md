@@ -2,9 +2,6 @@
 
 A modular chat and command system for FiveM supporting ESX, QBCore, QBox, and standalone servers.
 
-> [!CAUTION]
-> This resource is not yet ready for production use and is only public at this stage for transparency. Please check back in a few days for an official release :D 
-
 ## Features
 
 - Framework agnostic with explicit configuration
