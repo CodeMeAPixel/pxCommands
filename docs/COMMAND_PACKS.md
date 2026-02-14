@@ -161,5 +161,5 @@ Command names must be unique across all packs. If two packs define the same comm
 ## Debug
 
 Check server logs for:
-- `Registering command /name from pack PackName...` 
-- Errors if command definition is malformed
+- `Registering command /name from pack PackName...`: this log means commands are successfully loading.
+- `Failed to register command /name from pack PackName...`: this is an error and means your command is possibly malformed
